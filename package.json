@@ -1,0 +1,9 @@
+{
+  "name": "happybonobo_plugins_and_mimetypes",
+  "title": "Happy Bonobo: Plugins & Mimetypes",
+  "id": "jid1-5Fs7iTLscUaZBg",
+  "description": "Hide in the forest, with a clean removal of your plugin & mimetype identifiers.",
+  "author": "Chris Antaki",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
