@@ -1,7 +1,8 @@
 (function() {
 
     // Allow Google Hangouts.
-    if (location.host === 'plus.google.com' || location.pathname.match(/hangouts/)) {
+    var googleHangouts = location.host === 'plus.google.com' && location.pathname.match(/hangouts/);
+    if (googleHangouts) {
         return;
     }
 
