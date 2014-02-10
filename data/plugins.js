@@ -6,6 +6,12 @@
         return;
     }
 
+    // Allow Gmail.
+    var gmail = location.host === 'mail.google.com';
+    if (gmail) {
+        return;
+    }
+
     Object.defineProperty(unsafeWindow.navigator, 'plugins', {
         value: []
     });
