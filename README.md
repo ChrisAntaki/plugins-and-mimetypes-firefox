@@ -1,6 +1,8 @@
 Clear Plugins & Mimetypes, for Firefox
 ========================
 
+[Install here](https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-plugins-mimety/)
+
 Hide in the forest, with a clean removal of your plugin & mimetype identifiers.
 
 Check this out, if you haven't already!
