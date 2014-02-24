@@ -1,23 +1,28 @@
-(function() {
+(function() { // :)
+
+
 
     // Allow Google Hangouts.
-    var googleHangouts = location.host === 'plus.google.com' && location.pathname.match(/hangouts/);
-    if (googleHangouts) {
+    if (location.host === 'plus.google.com' &&
+        location.pathname.match(/hangouts/)) {
         return;
     }
 
     // Allow Gmail.
-    var gmail = location.host === 'mail.google.com';
-    if (gmail) {
+    if (location.host === 'mail.google.com') {
         return;
     }
 
+    // Clear plugin indentifiers.
     Object.defineProperty(unsafeWindow.navigator, 'plugins', {
         value: []
     });
 
+    // Clear mimetype indentifiers.
     Object.defineProperty(unsafeWindow.navigator, 'mimeTypes', {
         value: []
     });
 
-})();
+
+
+})(); // :)
