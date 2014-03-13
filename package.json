@@ -1,10 +1,14 @@
 {
-  "name": "happybonobo_plugins_and_mimetypes",
-  "title": "Happy Bonobo: Clear Plugin & Mimetype Identifiers",
-  "id": "jid1-5Fs7iTLscUaZBg",
-  "description": "Hide in the forest, with a clean removal of your plugin & mimetype identifiers.",
-  "author": "Chris Antaki",
-  "license": "MPL 2.0",
-  "version": "1.0.1",
-  "icon": "data/monkey-pl.png"
+    "name": "happybonobo_plugins_and_mimetypes",
+    "title": "Happy Bonobo: Clear Plugin & Mimetype Identifiers",
+    "id": "jid1-5Fs7iTLscUaZBg",
+    "description": "Hide in the forest, with a clean removal of your plugin & mimetype identifiers.",
+    "author": "Chris Antaki",
+    "license": "MPL 2.0",
+    "version": "1.0.1",
+    "icon": "data/monkey-pl-48.png",
+    "icon64": "data/monkey-pl-64.png",
+    "permissions": {
+        "private-browsing": true
+    }
 }
