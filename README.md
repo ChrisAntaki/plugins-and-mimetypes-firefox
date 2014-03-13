@@ -1,4 +1,4 @@
-Clear Plugins & Mimetypes, for Firefox
+Clear Plugin & Mimetype Identifiers, for Firefox
 ========================
 
 [Install here](https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-plugins-mimety/)
