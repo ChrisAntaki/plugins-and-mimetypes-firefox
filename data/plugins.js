@@ -13,14 +13,14 @@
         return;
     }
 
-    // Clear plugin indentifiers.
+    // Clear `plugin` indentifiers.
     Object.defineProperty(unsafeWindow.navigator, 'plugins', {
-        value: []
+        value: void 0
     });
 
-    // Clear mimetype indentifiers.
+    // Clear `mimetype` indentifiers.
     Object.defineProperty(unsafeWindow.navigator, 'mimeTypes', {
-        value: []
+        value: void 0
     });
 
 
