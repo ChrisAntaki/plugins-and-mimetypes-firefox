@@ -3,7 +3,7 @@ Hide Plugin & Mimetype Identifiers, for Firefox
 
 [Install here](https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-plugins-mimety/)
 
-Prevent sites from grabbing a list of your plugins & mime types. Such lists can be used to uniquely identify users who prefer more privacy.
+Prevent sites from grabbing a list of your plugins & mime types. Such lists can be used to uniquely identify you.
 
 Check this out, if you haven't already!
 http://panopticlick.eff.org/
