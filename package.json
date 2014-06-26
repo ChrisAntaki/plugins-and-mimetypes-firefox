@@ -1,8 +1,8 @@
 {
     "name": "happybonobo_plugins_and_mimetypes",
-    "title": "Happy Bonobo: Clear Plugin & Mimetype Identifiers",
+    "title": "Happy Bonobo: Hide Plugin & Mimetype Identifiers",
     "id": "jid1-5Fs7iTLscUaZBg",
-    "description": "Hide in the forest, with a clean removal of your plugin & mimetype identifiers.",
+    "description": "Prevent sites from grabbing a list of your plugins & mime types.",
     "author": "Chris Antaki",
     "license": "MPL 2.0",
     "version": "1.0.2",
