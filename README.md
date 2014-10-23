@@ -10,6 +10,6 @@ http://panopticlick.eff.org/
 
 I also recommend installing FlashBlock, since it prevents your fonts from being harvested.
 
-Please note: If you've made any custom changes to the `plugins.enumerable_names` setting in `about:config`, this plugin will reset them.
+Note: This plugin will overwrite the `plugins.enumerable_names` setting in Firefox.
 
 Feel free to make a GitHub issue, or pull request. Thanks.
