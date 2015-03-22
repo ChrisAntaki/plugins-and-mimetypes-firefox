@@ -1,6 +1,6 @@
 {
     "name": "happybonobo_plugins_and_mimetypes",
-    "title": "Prevent Plugin & Mimetype Enumeration",
+    "title": "Disable Plugin & Mimetype Enumeration",
     "id": "jid1-5Fs7iTLscUaZBg",
     "description": "Prevent sites from grabbing a list of your plugins & mime types.",
     "author": "Chris Antaki",
