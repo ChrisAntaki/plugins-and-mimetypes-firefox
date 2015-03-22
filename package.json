@@ -1,13 +1,12 @@
 {
     "name": "happybonobo_plugins_and_mimetypes",
-    "title": "Happy Bonobo: Hide Plugin & Mimetype Identifiers",
+    "title": "Prevent Plugin & Mimetype Enumeration",
     "id": "jid1-5Fs7iTLscUaZBg",
     "description": "Prevent sites from grabbing a list of your plugins & mime types.",
     "author": "Chris Antaki",
     "license": "MPL 2.0",
-    "version": "1.1.3",
-    "icon": "data/monkey-pl-48.png",
-    "icon64": "data/monkey-pl-64.png",
+    "version": "1.1.4",
+    "icon": "data/safe.png",
     "permissions": {
         "private-browsing": true
     }
